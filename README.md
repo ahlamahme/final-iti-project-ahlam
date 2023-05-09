@@ -6,11 +6,11 @@
  ## A Bastion Instance that allows us to access the Kubernetes Control Plane to run kubectl CLI commands. This is basically just a Linux machine with a proxy installed on it. That is exposed to the internet via an external IP address. 
 --------------------------------------------------------------------------------------------------------
 # 2-connect to the cluster <br>
- ## configure the Bastin vm to connect to the cluster  
-
-     ### install Kubectl 
-     ### install auth-plugin 
-     ### connect to cluster 
+ ## configure the Bastin vm to connect to the cluster 
+ ### install Kubectl 
+ ### install auth-plugin 
+ ### connect to cluster
+ 
 --------------------------------------------------------------------------------------------------------
 3-Install jenkens using helm
 -------------------------------------------------------------------------------------------------------
