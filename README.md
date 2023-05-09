@@ -14,9 +14,9 @@
 3-Install jenkens using helm
 -------------------------------------------------------------------------------------------------------
 4-deploy application on cluster <br>
-  4.1create production namespace  <br>
-  4.2 deploy the app on the cluster <br>
-  4.3 expose the app
+ </br> 4.1create production namespace  <br>
+ </br> 4.2 deploy the app on the cluster <br>
+ </br> 4.3 expose the app
 --------------------------------------------------------------------------------------------
 Reference used  
 
