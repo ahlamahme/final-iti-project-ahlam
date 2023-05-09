@@ -1,4 +1,4 @@
-1- create infrastructure <br>
+1-create infrastructure <br>
 • A GKE cluster with Linux Worker Nodes. <br>
 •Load Balancer that routes external traffic to the Worker Nodes. <br>
 •A NAT router that allows all our instances inside the VPC to access the internet. <br>
@@ -13,10 +13,7 @@
 --------------------------------------------------------------------------------------------------------
 3-Install jenkens using helm
 -------------------------------------------------------------------------------------------------------
-4-deploy application on cluster <br>
-   </br></br> 4.1create production namespace  <br>
-   </br></br> 4.2 deploy the app on the cluster <br>
-   </br></br> 4.3 expose the app
+4-deploy application on cluster 
 --------------------------------------------------------------------------------------------
 Reference used  
 
