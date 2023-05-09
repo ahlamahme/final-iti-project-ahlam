@@ -1,6 +1,7 @@
-
+Deploying an application on Kubernetes cluster using CI/CD Jenkins
+pipeline.
 --------------------------------------------------------------------------------------------------------
-##1-create infrastructure <br>
+1-create infrastructure <br>
 • A GKE cluster with Linux Worker Nodes. <br>
 •Load Balancer that routes external traffic to the Worker Nodes. <br>
 •A NAT router that allows all our instances inside the VPC to access the internet. <br>
