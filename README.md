@@ -1,3 +1,5 @@
+
+--------------------------------------------------------------------------------------------------------
 1-create infrastructure <br>
 • A GKE cluster with Linux Worker Nodes. <br>
 •Load Balancer that routes external traffic to the Worker Nodes. <br>
